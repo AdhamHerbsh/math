@@ -353,9 +353,6 @@ strong {
   color: var(--dark-color);
 }
 
-.navbar .navbar-brand-image {
-  filter: drop-shadow(1px 1px 30px);
-}
 
 .navbar-brand-image {
   width: 200px;
